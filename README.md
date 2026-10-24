@@ -1,16 +1,17 @@
-## Hi there 👋
+# Andrew Morgan
+**Full-Stack Software Developer | Computer Science**
 
-<!--
-**AndrewEMorgan05/AndrewEMorgan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Computer Science student at Coastal Carolina University (3.69 GPA) and a full-stack developer with 3+ years of professional experience building enterprise web applications at Innosoft Inc. I specialize in backend architecture, database management, and system integrations. 
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Tools
+*   **Languages:** C#, SQL (T-SQL), JavaScript, HTML/CSS, Python, C++, Rust, Haskell, Java
+*   **Frameworks & Cloud:** .NET Framework, ASP.NET Web Forms, AWS Connect, ROS 2
+*   **Tools & Environment:** Git, VS Code, Linux (WSL 2 / Ubuntu), Makefiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Professional Experience
+*   **Full-Stack Developer @ RapidTax:** Developing C# ASP.NET interfaces, complex T-SQL stored procedures, and custom AWS Connect call-logging services. 
+
+### 🎓 Academic Profile
+*   **Coastal Carolina University:** Senior, B.S. in Computer Science 
+*   **Honors:** Upsilon Pi Epsilon (UPE) International Honor Society, President's Scholar
+*   **Interests:** Competitive powerlifting, Teamwork Activities, parallel systems benchmarking.
