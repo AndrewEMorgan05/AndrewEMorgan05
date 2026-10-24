@@ -4,7 +4,7 @@
 I am a Senior Computer Science student at Coastal Carolina University (3.69 GPA) and a full-stack developer with 3+ years of professional experience building enterprise web applications at Innosoft Inc. I specialize in backend architecture, database management, and system integrations. 
 
 ### 💻 Tech Stack & Tools
-*   **Languages:** C#, SQL (T-SQL), JavaScript, HTML/CSS, Python, C++, Rust, Haskell, Java
+*   **Languages:** C#, SQL (T-SQL), JavaScript, HTML/CSS, Python, C++, Java, C
 *   **Frameworks & Cloud:** .NET Framework, ASP.NET Web Forms, AWS Connect, ROS 2
 *   **Tools & Environment:** Git, VS Code, Linux (WSL 2 / Ubuntu), Makefiles
 
