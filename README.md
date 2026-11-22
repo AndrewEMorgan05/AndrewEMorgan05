@@ -20,4 +20,3 @@ I am a Senior Computer Science student at Coastal Carolina University (3.69 GPA)
 ### 🎓 Academic Profile
 -   **Coastal Carolina University:** Senior, B.S. in Computer Science (Expected Graduation: May 2027)
 -   **Honors:** Upsilon Pi Epsilon (UPE) International Honor Society, President's Scholar Award, SC LIFE Scholarship, and SC LIFE Enhancement Scholarship
--   **Interests:** Member of the Coastal Carolina University Powerlifting Club; qualified for USA Powerlifting Collegiate Nationals across three official USAPL meets.
